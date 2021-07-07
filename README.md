@@ -1,4 +1,4 @@
-# Airlines-Database-Management-System
+# Airline-Database-Management-System
 Airport Management System is a large scale project which includes database of more than a single Airport. This airline management system contains the details about: Airplane_Type, Route, Flight, Airfare, Passengers, Employees, Transactions, Countries and Airport.
 The project has been planned to be having the view of distributed architecture, with centralized storage of the database.
 The entire project has been developed keeping in view of the distributed client server computing technology, in mind. The specification has been normalized up to 2NF to eliminate all the anomalies that may arise due to the database transaction that are executed by the general users and the organizational administration. The user interfaces are browser specific to give distributed accessibility for the overall system.
